@@ -1,4 +1,4 @@
-![Banner](/assets/Brand Banner.png)
+# Hi! And welcome to my digital portfolio..
 
 I build AI-enabled products and data systems that turn business problems into measurable outcomes.
 
@@ -9,22 +9,24 @@ I think beyond individual models or applications, considering how data, technolo
 I am curious about AI-enabled transformation, predictive analytics, decision intelligence, and enterprise systems. I develop code bases following software engineering practices and combine exploration and study with agentic orchestration.
 
 ## Work Ethos
-Currently I work as an AI engineer, developing tools and systems that allow enterprises to scale and remove bottlenecks. I strive to help organisatons trough optimising and digitalising their work and standard operating practises. Either trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
 
-Previously, I was teaching assitant for the course: "Computational Tools for Data Science" at DTU. There I supported the development and understanding of 100+ students and reached a satisfaction score of 98%. Aditionally, I managed a 12 people strong start-up.
+![Banner](/assets/Brand Banner.png)
+
+Currently, I work as an AI engineer, developing tools and systems that allow enterprises to scale and remove bottlenecks. I strive to help organisatons trough optimising and digitalising their work and standard operating practises. Either trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
+
+Previously, I was a teaching assitant for the course: "Computational Tools for Data Science" at DTU. There I supported the development and understanding of 100+ students and reached a satisfaction score of 98%. Aditionally, I managed a 12 people strong start-up.
 
 ## Relevant Projects
-I enjoy exploring the depths of each of my projects. Here are examples published to GitHub:
+I enjoy exploring the depths of each of my projects. Here are examples published to HuggingFace and GitHub:
 
-- NLP-Based Scriptwriting tool
-- LLM tokenization of Math equations
-- Scaling Compute
-- Multiplayer VR gaming environment
-- Web Development
+- [NLP-Based Scriptwriting tool](https://huggingface.co/spaces/lilDimi/cs4100ScreenWritingRun)
+- [LLM tokenization of Math equations](https://github.com/DimiDime/DimiDime-02456-LLM-TOKENIZATION-STRATEGIES-FOR-MATH-EQUATIONS)
+- [Scaling Compute](https://github.com/DimiDime/Massive-Computing-projects)
+- [Multiplayer VR gaming environment](https://github.com/DimiDime/XR-Project)
+- [Web Development](https://github.com/DimiDime/microblogging)
 
 ## Publications
 [A Case Study of Planning and Analyzing the Implementation of an AGV System Using Discrete Event Simulation](https://saemobilus.sae.org/papers/a-case-study-planning-analyzing-implementation-agv-system-using-discrete-event-simulation-2024-01-2054)
 
 ## Contact
-You can reach me over:
-[Linked-In](https://www.linkedin.com/in/dimitar-ilev)
+You can reach me over my [Linked-In](https://www.linkedin.com/in/dimitar-ilev).
