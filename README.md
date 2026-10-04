@@ -10,3 +10,4 @@ My work resolves closely to understanding businesses and all types of stakeholde
 I enjoy like going into the depths of each of my projects. Here are a few public examples:
 
 ## Publications
+[A Case Study of Planning and Analyzing the Implementation of an AGV System Using Discrete Event Simulation](https://saemobilus.sae.org/papers/a-case-study-planning-analyzing-implementation-agv-system-using-discrete-event-simulation-2024-01-2054)
