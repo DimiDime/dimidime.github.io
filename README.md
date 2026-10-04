@@ -8,9 +8,9 @@ I think beyond individual models or applications, considering how data, technolo
 
 I am curious about AI-enabled transformation, predictive analytics, decision intelligence, and enterprise systems. I develop code bases following software engineering practices and combine exploration and study with agentic orchestration.
 
-## Work Ethos
-
 ![Banner](/assets/Brand Banner.png)
+
+## Work Ethos
 
 Currently, I work as an AI engineer, developing tools and systems that allow enterprises to scale and remove bottlenecks. I strive to help organisatons trough optimising and digitalising their work and standard operating practises. Either trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
 
