@@ -12,9 +12,11 @@ I am curious about AI-enabled transformation, predictive analytics, decision int
 
 I am fluent in English, German, Bulgarian and have proficy to exchange in Danish. This allows me to connect with stakeholders from various backgrounds and navigate successfully between cultures.
 
-## Work Ethos
+## Work Signal
 
-Currently, I work as an AI engineer and analyst, developing tools and systems that allow enterprises to scale and remove bottlenecks. I strive to help organisatons trough optimising and digitalising their work and standard operating practises. Either trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
+Currently, I work as an AI engineer and Technology Consultant, developing tools and systems that allow enterprises to scale and remove bottlenecks. I stay close as it occures. Once the system breaks I figure out how to fix it.
+
+I strive to help organisatons trough optimising and digitalising their work and standard operating practises. Either trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
 
 Previously, I was a teaching assitant for the course: "Computational Tools for Data Science" at DTU. There I supported the development and understanding of 100+ students and reached a satisfaction score of 98%. Aditionally, in my early study time I managed an agil team of 12 in a start-up at DTU.
 
