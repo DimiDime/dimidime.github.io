@@ -1,6 +1,6 @@
 # Hi! And welcome to my digital portfolio..
 
-I build AI-enabled products and data systems that turn business problems into measurable outcomes.
+I build data products and systems that turn business problems into measurable outcomes.
 
 My work spans platforms, cloud computing, security, and compliance. I develop machine learning solutions, build data pipelines and AI-enabled tools, and work with business teams to translate complex data and processes into solutions that can scale.
 
