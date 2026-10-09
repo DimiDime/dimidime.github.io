@@ -6,7 +6,7 @@ My work spans platforms, cloud computing, security, and compliance. I develop ma
 
 I think beyond individual models or applications, considering how data, technology, people, and business processes fit together as a whole. I bring a combination of technical execution and commercial experience. With close work to the data and code while also understanding the operational problem and communicating with senior stakeholders.
 
-I am curious about AI-enabled transformation, predictive analytics, decision intelligence, and system design. I develop code bases following software engineering frameworks and combine exploration and study with agentic orchestration.
+I am curious about AI-enabled transformation, predictive analytics, decision intelligence, and system design. I develop code bases following software engineering principles and combine exploration and study with agentic orchestration.
 
 ![Banner](/assets/Brand Banner.png)
 
@@ -14,13 +14,13 @@ I am fluent in English, German, Bulgarian and have proficy to exchange in Danish
 
 ## Work Signal
 
-Currently, I work as an AI engineer and Technology Consultant, developing tools and systems that allow enterprises to scale and remove bottlenecks. I stay close as it occures. Once the system breaks I figure out how to fix it.
+Currently, I work as Technology Consultant, developing data products and systems that allow enterprises to scale and remove bottlenecks. I stay close to the source and once the system breaks I provide a solution fixing it.
 
-I strive to help organisatons trough optimising and digitalising their work and standard operating practises. Either trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
+I strive to improve the way organisatons work trough optimising and digitalising their work and standard practises of operation. Trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
 
-Previously, I was a teaching assitant for the course: "Computational Tools for Data Science" at DTU. There I supported the development and understanding of 100+ students and reached a satisfaction score of 98%. Aditionally, in my early study time I managed an agil team of 12 in a start-up at DTU.
+During my time as a student, I was a teaching assitant at DTU, teaching Computational Tools for Data Science to over 100 students and reached a satisfaction score of 98%. Aditionally, I was a project manager to a university start-up leading an agile team of 12.
 
-## Relevant Projects
+## Public Projects
 I enjoy exploring the depths of each of my projects. Here are examples deployed to HuggingFace and GitHub:
 
 - [NLP-Based Scriptwriting tool](https://huggingface.co/spaces/lilDimi/cs4100ScreenWritingRun)
@@ -32,7 +32,7 @@ I enjoy exploring the depths of each of my projects. Here are examples deployed 
 ## Publications
 [A Case Study of Planning and Analyzing the Implementation of an AGV System Using Discrete Event Simulation](https://saemobilus.sae.org/papers/a-case-study-planning-analyzing-implementation-agv-system-using-discrete-event-simulation-2024-01-2054)
 
-Can also be found under my name on Google Scholar.
+I can also be found under my name on Google Scholar.
 
 ## Contact
 Looking for a strategic connection, consulting services or career sparing. You can reach me over my [Linked-In](https://www.linkedin.com/in/dimitar-ilev).
