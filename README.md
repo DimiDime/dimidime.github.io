@@ -1,4 +1,4 @@
-# Hi! And welcome to my digital portfolio..
+# Hi! And welcome to my digital portfolio!
 
 I build data products and systems that turn business problems into measurable outcomes.
 
