@@ -14,7 +14,7 @@ I am fluent in English, German, Bulgarian and have proficy to exchange in Danish
 
 ## Work Signal
 
-Currently, I work as Technology Consultant, developing data products and systems that allow enterprises to scale and remove bottlenecks. I stay close to the source and once the system breaks I provide a solution fixing it.
+Currently, I work as Technology Consultant, developing data products and systems that allow enterprises to scale, optimize and remove bottlenecks.
 
 I strive to improve the way organisatons work trough optimising and digitalising their work and standard practises of operation. Trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
 
