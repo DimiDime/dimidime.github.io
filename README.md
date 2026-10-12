@@ -21,7 +21,7 @@ I strive to improve the way organisatons work trough optimising and digitalising
 During my time as a student, I was a teaching assitant at DTU, teaching Computational Tools for Data Science to over 100 students and reached a satisfaction score of 98%. Aditionally, I was a project manager to a university start-up leading an agile team of 12.
 
 ## Public Projects
-I enjoy exploring the depths of each of my projects. Here are examples deployed to HuggingFace and GitHub:
+I enjoy exploring the depths of my projects. Here are a few examples deployed to HuggingFace and GitHub:
 
 - [NLP-Based Scriptwriting tool](https://huggingface.co/spaces/lilDimi/cs4100ScreenWritingRun)
 - [LLM tokenization of Math equations](https://github.com/DimiDime/DimiDime-02456-LLM-TOKENIZATION-STRATEGIES-FOR-MATH-EQUATIONS)
