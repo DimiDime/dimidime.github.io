@@ -14,14 +14,14 @@ I am fluent in English, German, Bulgarian and have proficy to exchange in Danish
 
 ## Work Signal
 
-Currently, I work as Technology Consultant, developing data products and systems that allow enterprises to scale, optimize and remove bottlenecks.
+Currently, I work as Technology Consultant, developing data products and systems that allow enterprises to scale, optimize and remove bottlenecks efficiently.
 
-I strive to improve the way organisatons work trough optimising and digitalising their work and standard practises of operation. Trough automation, decision support or a simple digital workflow. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood.
+I strive to improve the way organisatons function trough optimising and digitalising their work and standard practises of operation. Trough data democratisation, automation and decision support. My work ensures that senior leaders gain value by translating the complexity of technical flows into common language and operational terms that can be easily understood. I like to provide a perspective over problems that allows stakeholders to build an informed opinion, making their decision rooted into the data.
 
-During my time as a student, I was a teaching assitant at DTU, teaching Computational Tools for Data Science to over 100 students and reached a satisfaction score of 98%. Aditionally, I was a project manager to a university start-up leading an agile team of 12.
+During my time as a student at DTU, I assisted over 100 students in computational tools for data science and reached a satisfaction score of 98%. Aditionally, I was a project manager to a university start-up leading an agile team of 12, doubling their productivity and leading by example.
 
-## Public Projects
-I enjoy exploring the depths of my projects. Here are a few examples deployed to HuggingFace and GitHub:
+## Published Projects
+I enjoy exploring the depths of my tasks. Here are a few examples deployed to HuggingFace and GitHub:
 
 - [NLP-Based Scriptwriting tool](https://huggingface.co/spaces/lilDimi/cs4100ScreenWritingRun)
 - [LLM tokenization of Math equations](https://github.com/DimiDime/DimiDime-02456-LLM-TOKENIZATION-STRATEGIES-FOR-MATH-EQUATIONS)
