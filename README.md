@@ -30,7 +30,9 @@ I enjoy exploring the depths of my tasks. Here are a few examples deployed to Hu
 ## Publications
 [A Case Study of Planning and Analyzing the Implementation of an AGV System Using Discrete Event Simulation](https://saemobilus.sae.org/papers/a-case-study-planning-analyzing-implementation-agv-system-using-discrete-event-simulation-2024-01-2054)
 
-I can also be found under my name on Google Scholar.
+My work can also be found under my name on Google Scholar.
 
 ## Contact
 Looking for a strategic connection, consulting services or career sparing. You can reach me over my [Linked-In](https://www.linkedin.com/in/dimitar-ilev).
+
+P.S. We live in dynamic times where things change fast. I strive to keep my page updated.
