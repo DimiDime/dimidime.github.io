@@ -35,4 +35,4 @@ My work can also be found under my name on Google Scholar.
 ## Contact
 Looking for a strategic connection, consulting services or career sparing. You can reach me over my [Linked-In](https://www.linkedin.com/in/dimitar-ilev).
 
-P.S. We live in dynamic times where things change fast. I strive to keep my page updated.
+P.S. We live in a fast-paced wordl, where things change fast. I strive to keep the page updated.
