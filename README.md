@@ -1,12 +1,12 @@
 # Hi! And welcome to my digital portfolio!
 
-I build data products and systems that turn business problems into measurable outcomes.
+I build data products that turn business problems into measurable outcomes.My goal is to help organisations scale across operations and IT.
 
-My goal is to help organisations grow by scaling opperations, increasing savings and decoupling cost from growth. My work spans platforms, cloud computing, security, and compliance. I develop machine learning solutions, build data pipelines and AI-enabled tools, and work with business teams to translate complex data and processes into solutions that can scale.
+My work spans platforms, cloud computing, security, and compliance. I develop machine learning solutions, build data pipelines and AI-enabled tools, and work with business teams to translate complex data and processes into solutions that can scale.
 
 I think beyond individual models or applications, considering how data, technology, people, and business processes fit together as a whole. I bring a combination of technical execution and commercial experience. I am curious about AI-enabled transformation, predictive analytics, decision intelligence, and system design. I develop code bases following software engineering principles and combine exploration and study with agentic orchestration.
 
-![Banner](/assets/Brand Banner.png)
+![Banner](/assets/Brand Banner.png) 
 
 I am fluent in English, German, Bulgarian and have proficy to exchange in Danish. This allows me to connect with stakeholders from various backgrounds and navigate successfully between cultures.
 
